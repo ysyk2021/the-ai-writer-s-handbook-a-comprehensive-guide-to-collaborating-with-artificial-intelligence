@@ -1,0 +1,15 @@
+{
+    "name": "the-ai-writer-s-handbook-a-comprehensive-guide-to-collaborating-with-artificial-intelligence",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "honkit": "^4.0.7"
+    }
+}
