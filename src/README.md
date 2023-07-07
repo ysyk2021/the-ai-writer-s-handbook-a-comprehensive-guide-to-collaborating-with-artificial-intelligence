@@ -1,4 +1,4 @@
-# Introduction for Overview
+# Introduction
 
 Artificial intelligence (AI) technology is transforming the way that writing is done, providing writers with innovative tools and techniques to enhance their craft. The AI Writer's Handbook provides a comprehensive guide to collaborating with artificial intelligence, exploring various ways that AI technology can be used to support writing processes.
 
