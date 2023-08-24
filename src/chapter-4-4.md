@@ -1,5 +1,3 @@
-Editing and Proofreading
-=========================================================
 
 One of the key benefits of working with an AI writing tool is its ability to help writers edit and proofread their work. In this chapter, we'll explore some strategies for using AI writing tools effectively during the editing and proofreading process.
 

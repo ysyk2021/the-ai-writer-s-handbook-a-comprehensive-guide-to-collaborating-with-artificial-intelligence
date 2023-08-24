@@ -1,5 +1,3 @@
-Avoiding Common Pitfalls
-=====================================================================
 
 Collaborating with AI writing tools can offer many benefits, but it's important to be aware of common pitfalls that can arise. In this chapter, we'll explore best practices for avoiding these pitfalls and ensuring a successful collaboration between humans and machines.
 

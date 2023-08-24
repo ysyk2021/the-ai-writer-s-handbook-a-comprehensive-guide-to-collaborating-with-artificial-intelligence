@@ -1,5 +1,3 @@
-Predictions for the Future of AI Writing Technology
-=============================================================================
 
 As AI writing technology continues to evolve and mature, it's clear that it will have a significant impact on the writing industry in the years to come. In this chapter, we'll explore some of the key predictions for the future of AI writing technology and what they could mean for writers and readers alike.
 

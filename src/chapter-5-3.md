@@ -1,5 +1,3 @@
-Managing Quality Control
-===================================================================
 
 Integrating AI writing tools into your workflow can improve the efficiency and effectiveness of your content creation process, but it also requires careful management of quality control. In this chapter, we'll explore strategies for managing quality control when collaborating with AI writing tools.
 

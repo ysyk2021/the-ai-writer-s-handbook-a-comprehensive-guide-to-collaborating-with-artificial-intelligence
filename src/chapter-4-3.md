@@ -1,5 +1,3 @@
-Drafting and Revising Content
-==============================================================
 
 In addition to generating ideas and outlines, AI writing tools can also be valuable assets when it comes to drafting and revising content. In this chapter, we'll explore some key strategies for working with an AI writing tool during the drafting and revision process.
 

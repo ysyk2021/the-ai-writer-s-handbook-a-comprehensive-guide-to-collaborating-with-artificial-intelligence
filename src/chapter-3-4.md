@@ -1,5 +1,3 @@
-Developing a Content Strategy
-==========================================================
 
 Before you begin collaborating with an AI writing tool, it's important to develop a content strategy that aligns with your goals and objectives. In this chapter, we'll explore some key strategies for developing a content strategy that will help you get the most out of your collaboration with an AI writing tool.
 

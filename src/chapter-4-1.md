@@ -1,5 +1,3 @@
-Getting Started with the Tool
-==============================================================
 
 If you're new to working with an AI writing tool, it can be overwhelming at first. However, with a little bit of guidance, you'll be able to get up and running quickly and start taking advantage of the many benefits that these tools offer.
 

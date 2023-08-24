@@ -1,5 +1,3 @@
-Tips for Successful Collaboration with AI
-======================================================================================
 
 Collaborating with AI writing tools can offer many benefits, but it requires a strategic and thoughtful approach. In this chapter, we'll explore best practices for successful collaboration with AI writing tools.
 

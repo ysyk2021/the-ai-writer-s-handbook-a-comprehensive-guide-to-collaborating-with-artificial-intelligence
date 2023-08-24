@@ -1,5 +1,3 @@
-Creating an Efficient Collaboration Process
-======================================================================================
 
 Integrating AI writing tools into your workflow can offer many benefits, but it requires a thoughtful and strategic approach. In this chapter, we'll explore strategies for creating an efficient collaboration process between writers and AI writing tools.
 

@@ -1,5 +1,3 @@
-Integrating AI Writing into Your Existing Workflow
-=============================================================================================
 
 Integrating AI writing tools into your existing workflow can be a powerful way to improve the efficiency and effectiveness of your content creation process. In this chapter, we'll explore best practices for integrating AI writing into your workflow.
 

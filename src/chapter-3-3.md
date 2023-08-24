@@ -1,5 +1,3 @@
-Creating a Style Guide
-===================================================
 
 To ensure consistency and quality in your writing when collaborating with an AI writing tool, it's important to create a style guide. A style guide outlines the rules and guidelines for how your content should be written, covering everything from tone and voice to grammar and formatting. In this chapter, we'll explore strategies for creating a style guide that will help you get the most out of your collaboration with an AI writing tool.
 
