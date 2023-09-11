@@ -1,5 +1,4 @@
-Chapter 8: Managing Quality Control
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of quality control when collaborating with artificial intelligence in the writing process. We will discuss techniques and strategies for managing quality control to ensure accuracy, consistency, and reliability in the content created with AI.
 

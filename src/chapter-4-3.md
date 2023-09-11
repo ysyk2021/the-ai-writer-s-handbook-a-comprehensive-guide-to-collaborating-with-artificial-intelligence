@@ -1,5 +1,4 @@
-Chapter 3: Drafting and Revising Content
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of drafting and revising content when collaborating with artificial intelligence (AI). Effective drafting and revision techniques are crucial for optimizing AI-generated content and ensuring its quality, coherence, and alignment with your goals as a writer.
 

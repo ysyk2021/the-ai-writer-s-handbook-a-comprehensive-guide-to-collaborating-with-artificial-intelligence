@@ -1,5 +1,4 @@
-Chapter 14: Predictions for the Future of AI Writing Technology
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into exciting predictions for the future of AI writing technology. As AI continues to evolve and advance, it is poised to revolutionize the writing landscape in numerous ways. Let's explore some potential developments and trends that may shape the future of AI writing.
 

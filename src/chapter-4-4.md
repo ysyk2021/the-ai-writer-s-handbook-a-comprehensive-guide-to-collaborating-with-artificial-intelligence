@@ -1,5 +1,4 @@
-Chapter 5: Editing and Proofreading
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of editing and proofreading in the writing process and explore the various techniques and strategies for effective editing and proofreading when collaborating with artificial intelligence.
 

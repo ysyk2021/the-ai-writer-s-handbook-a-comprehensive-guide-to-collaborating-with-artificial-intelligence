@@ -1,5 +1,4 @@
-Chapter 5: Avoiding Common Pitfalls
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the common pitfalls that can arise when collaborating with artificial intelligence (AI) as a writer. By being aware of these pitfalls and implementing strategies to mitigate them, you can ensure a successful and productive collaboration with AI.
 

@@ -1,5 +1,4 @@
-Chapter 7: Benefits and Limitations of Each Tool
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the benefits and limitations of different AI writing tools. Understanding these aspects will help you make informed decisions about which tools to use for specific tasks and how to maximize their effectiveness in your writing process.
 

@@ -1,5 +1,4 @@
-Chapter 6: How to Choose the Right AI Writing Tool for Your Needs
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the factors to consider when choosing the right AI writing tool for your specific needs as a writer. With a wide range of options available, understanding these considerations will help you make an informed decision and select a tool that aligns with your goals and enhances your writing process.
 

@@ -1,5 +1,4 @@
-Chapter 4: Types of AI Writing Tools
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of AI writing tools available for collaboration with artificial intelligence. These tools offer a range of functionalities and capabilities to assist and enhance the writing process. Understanding the various types can help you choose the right tools for your specific needs as a writer.
 

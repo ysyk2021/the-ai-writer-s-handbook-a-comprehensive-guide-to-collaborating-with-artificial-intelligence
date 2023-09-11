@@ -1,5 +1,4 @@
-Chapter 8: Integrating AI Writing into Your Existing Workflow
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how to smoothly integrate AI writing into your existing workflow. By seamlessly incorporating AI tools into your writing process, you can optimize efficiency, enhance creativity, and unlock the full potential of collaborative writing with artificial intelligence.
 

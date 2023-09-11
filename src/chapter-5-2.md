@@ -1,5 +1,4 @@
-Chapter 10: Creating an Efficient Collaboration Process
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies and techniques for establishing an efficient collaboration process when working with artificial intelligence in writing. We will discuss key considerations, best practices, and tools to streamline the collaborative workflow and maximize productivity.
 

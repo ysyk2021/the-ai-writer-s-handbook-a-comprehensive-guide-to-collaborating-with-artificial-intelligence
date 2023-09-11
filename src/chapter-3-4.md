@@ -1,5 +1,4 @@
-Chapter 6: Developing a Content Strategy
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will focus on the importance of developing a content strategy when collaborating with artificial intelligence in writing. We will explore key considerations and steps involved in creating an effective content strategy that integrates AI tools seamlessly into the writing process.
 
